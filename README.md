@@ -40,7 +40,6 @@ I work extensively with **10x Visium (FFPE & HD)**, scRNA-seq (BAL, PBMC), and i
 - TB granuloma immunobiology
 - Macrophage & suppressive myeloid cell heterogeneity
 - Immune microenvironments & tissue niches
-- Pseudobulk and differential expression strategies
 - Translational immunology & host-directed therapies
 
 ---
