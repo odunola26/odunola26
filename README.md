@@ -29,7 +29,7 @@ My research focuses on **human TB granulomas**, particularly pediatric lymph nod
 - hypoxia-associated and immunosuppressive niches  
 - host-directed therapy–relevant pathways  
 
-I work extensively with **10x Visium (FFPE & HD)**, scRNA-seq (BAL, PBMC), and integrative computational pipelines to derive biologically interpretable insights from complex spatial data.
+I work extensively with **10x Genomics Visium platform **, scRNA-seq (BAL, PBMC), and integrative computational pipelines to derive biologically interpretable insights from complex spatial data.
 
 ---
 
