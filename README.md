@@ -47,7 +47,7 @@ I work extensively with **10x Genomics Visium platform **, scRNA-seq (BAL, PBMC)
 ## 🧪 Technical Skills
 
 **Languages & Tools**
-- R (Seurat, Giotto, limma, edgeR, DESeq2)
+- R 
 - Git & GitHub (reproducible research workflows)
 - Linux / HPC environments
 
@@ -55,9 +55,8 @@ I work extensively with **10x Genomics Visium platform **, scRNA-seq (BAL, PBMC)
 - scRNA-seq preprocessing, QC, annotation
 - Spatial transcriptomics analysis
 - Cell deconvolution (RCTD, BayesPrism)
-- Pseudobulk & mixed-model DE analysis
-- Pathway enrichment & gene-set analysis
-- Publication-quality visualization
+
+
 
 ---
 
