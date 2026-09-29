@@ -6,8 +6,6 @@
 ![R](https://img.shields.io/badge/Code-R-276DC3)
 ![Open Science](https://img.shields.io/badge/Open-Science-success)
 
-🎓 PhD Candidate in Immunology | 🧬 Spatial Transcriptomics & Single-Cell RNA-seq  
-🌍 Tuberculosis Research | 🧠 Immune Microenvironments | 👩🏽‍💻 Bioinformatics Educator  
 
 ---
 ## 📊 GitHub Overview
