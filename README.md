@@ -17,14 +17,30 @@
 ![Stars](https://img.shields.io/github/stars/odunola26?affiliations=OWNER&label=Total%20Stars)
 ![Last Commit](https://img.shields.io/github/last-commit/odunola26/odunola26)
 
+# Sefiyat Odunola Adebiyi
 
+I'm a PhD candidate at Stellenbosch University, studying tuberculosis granulomas with spatial transcriptomics and single-cell RNA-seq. Most of my work is on paediatric lymph node lesions: mapping where hypoxic, immunosuppressive myeloid niches form in the tissue, and what that could mean for host-directed therapy.
 
----
+I trained as a veterinarian (DVM) and did an MSc in molecular biology before moving into computational work, so I split my time between the bench and the terminal.
 
-## 📫 Connect With Me
+**What's here**
 
-- LinkedIn: https://www.linkedin.com/in/odunola-adebiyi-4a9b31154/?originalSubdomain=ng  
-- Email:sadebiyi@sun.ac.za  
+- Analysis code for 10x Visium / Visium HD and scRNA-seq: QC, annotation, and cell-type deconvolution (RCTD, BayesPrism)
+- R workflows for differential expression and pathway analysis
+- Teaching material from [BioinformHer](#bioinformher)
+
+I work mostly in R, on Linux and HPC.
+
+### BioinformHer
+
+I co-founded BioinformHer, which trains women across Africa in bioinformatics: R, genomics, and building a GitHub portfolio like this one, with mentorship along the way.
+
+### Get in touch
+
+Happy to talk spatial or single-cell methods, TB immunology collaborations, or bioinformatics teaching.
+
+[sadebiyi@sun.ac.za](mailto:sadebiyi@sun.ac.za) · [LinkedIn](https://www.linkedin.com/in/odunola-adebiyi-4a9b31154/)
+ 
 
 ---
 
